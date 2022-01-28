@@ -1,0 +1,13 @@
+
+img{
+    width: 50%;
+  margin: auto;
+  display: block;
+}
+p{
+    text-align: center;
+    word-spacing: 25px;
+}
+*{
+    background-color: cornsilk;
+}

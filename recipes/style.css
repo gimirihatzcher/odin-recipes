@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+}
+img{
+    width: 25%;
+  margin: auto;
+  display: block;
+}
+.video{
+    text-align: center;
+}
+*{
+    background-color: cornsilk;
+}
